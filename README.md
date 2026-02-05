@@ -1,5 +1,5 @@
-# Toko Sayur 22
-Toko sayur 22 merupakan aplikasi web toko online sederhana dengan demo produk penjualan sayur. Produk dan kategori dapat diubah dengan bebas (tidak hanya sayur), pengaturan (nama situs, rekening) dan sebagainya bisa diubah dengan bebas melalui dasbor.
+# Toko ATK 22
+Toko ATK 22 merupakan aplikasi web toko online sederhana dengan demo produk penjualan ATK. Produk dan kategori dapat diubah dengan bebas, pengaturan (nama situs, rekening) dan sebagainya bisa diubah dengan bebas melalui dasbor.
 
 Aplikasi ini **HANYA DIGUNAKAN UNTUK PEMBELAJARAN** dan **TIDAK DISARANKAN DIGUNAKAN** pada toko yang nyata.
 
@@ -23,10 +23,10 @@ Untuk mencoba menggunakan toko ini, gunakan dua browser yang berbeda untuk memud
 
 **Admin:**
 - Username: admin
-- Password: 12345
+- Password: admin123
 
 **Customer:**
-- Username: customer
-- Password: 12345
+- Username: dinda
+- Password: dinda123
 
 Untuk panduan cara menginstal, silahkan buka file **panduan-installasi.pdf**
